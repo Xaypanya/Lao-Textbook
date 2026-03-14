@@ -1,6 +1,6 @@
 # 📚 Lao Textbook Collection | ປຶ້ມແບບຮຽນລາວ | ດາວໂຫລດຟຣີ PDF
 
-> **311 free PDF textbooks & teacher guides** for Lao national curriculum — Grades 1–12 (ປ.1–ມ.7) · All subjects · Official Ministry of Education materials · ດາວໂຫລດຟຣີ
+> **311 free PDF textbooks & teacher guides** for Lao national curriculum — Grades 1–12 · All subjects · Official Ministry of Education materials
 
 [![Lao PDR](https://img.shields.io/badge/Country-Lao%20PDR-red)](https://github.com/Xaypanya/Lao-Textbook)
 [![License](https://img.shields.io/badge/Use-Educational%20Only-blue)](https://github.com/Xaypanya/Lao-Textbook)
@@ -11,16 +11,16 @@
 ## 🇬🇧 English
 
 ### About
-This repository contains **311 PDF textbooks and teacher guides** for the Lao national curriculum, covering **Grade 1 through Grade 12** (ປ.1–ມ.7), all subjects. Files are sourced from official Lao Ministry of Education and Sports (MOES) materials — free to download for educational use.
+This repository contains **311 PDF textbooks and teacher guides** for the Lao national curriculum, covering **Grade 1 through Grade 12**, all subjects. Files are sourced from official Lao Ministry of Education and Sports (MOES) materials — free to download for educational use.
 
 ### Contents
 
 | Category | Grades | Files |
 |---|---|---|
-| 📘 Textbooks – Primary (ປະຖົມສຶກສາ) | ປ1 – ປ5 (Grades 1–5) | 58 |
-| 📗 Textbooks – Secondary (ມັດທະຍົມສຶກສາ) | ມ1 – ມ7 (Grades 6–12) | 112 |
-| 📒 Teacher Guides – Primary | ປ1 – ປ5 | 57 |
-| 📓 Teacher Guides – Secondary | ມ1 – ມ7 | 116 |
+| 📘 Textbooks – Primary | P1 – P5 (Grades 1–5) | 58 |
+| 📗 Textbooks – Secondary | M1 – M7 (Grades 6–12) | 112 |
+| 📒 Teacher Guides – Primary | P1 – P5 | 57 |
+| 📓 Teacher Guides – Secondary | M1 – M7 | 116 |
 
 ### Grade Levels
 
@@ -31,19 +31,19 @@ This repository contains **311 PDF textbooks and teacher guides** for the Lao na
 | ຊັ້ນ ປ.3 | Chan Pathom 3 | Grade 3 | `p3/` |
 | ຊັ້ນ ປ.4 | Chan Pathom 4 | Grade 4 | `p4/` |
 | ຊັ້ນ ປ.5 | Chan Pathom 5 | Grade 5 | `p5/` |
-| ຊັ້ນ ມ.1 | Chan Matthayon 1 | Grade 6 | `m1/` |
-| ຊັ້ນ ມ.2 | Chan Matthayon 2 | Grade 7 | `m2/` |
-| ຊັ້ນ ມ.3 | Chan Matthayon 3 | Grade 8 | `m3/` |
-| ຊັ້ນ ມ.4 | Chan Matthayon 4 | Grade 9 | `m4/` |
-| ຊັ້ນ ມ.5 | Chan Matthayon 5 | Grade 10 | `m5/` |
-| ຊັ້ນ ມ.6 | Chan Matthayon 6 | Grade 11 | `m6/` |
-| ຊັ້ນ ມ.7 | Chan Matthayon 7 | Grade 12 | `m7/` |
+| ຊັ້ນ ມ.1 | Chan Matthayom 1 | Grade 6 | `m1/` |
+| ຊັ້ນ ມ.2 | Chan Matthayom 2 | Grade 7 | `m2/` |
+| ຊັ້ນ ມ.3 | Chan Matthayom 3 | Grade 8 | `m3/` |
+| ຊັ້ນ ມ.4 | Chan Matthayom 4 | Grade 9 | `m4/` |
+| ຊັ້ນ ມ.5 | Chan Matthayom 5 | Grade 10 | `m5/` |
+| ຊັ້ນ ມ.6 | Chan Matthayom 6 | Grade 11 | `m6/` |
+| ຊັ້ນ ມ.7 | Chan Matthayom 7 | Grade 12 | `m7/` |
 
 ### Subjects Covered
 
-**Primary (ປ.1–ປ.5):** Lao Language · Mathematics · Science & Environment · World Around Us · Moral Education · English · Arts & Crafts · Music · Physical Education
+**Primary (P1–P5):** Lao Language · Mathematics · Science & Environment · World Around Us · Moral Education · English · Arts & Crafts · Music · Physical Education
 
-**Secondary (ມ.1–ມ.7):** Lao Language & Literature · Mathematics · Physics · Chemistry · Biology · History · Geography · Civic Education · English · French · Japanese · Korean Literature · ICT · Agriculture · Construction · Home Economics · Metallurgy · Automotive · Electrical · Business · Physical Education
+**Secondary (M1–M7):** Lao Language & Literature · Mathematics · Physics · Chemistry · Biology · History · Geography · Civic Education · English · French · Japanese · Korean Literature · ICT · Agriculture · Construction · Home Economics · Metallurgy · Automotive · Electrical · Business · Physical Education
 
 ### Folder Structure
 ```
@@ -73,15 +73,52 @@ Lao-Textbook/
 Examples: `p1_mathematics.pdf`, `m3_lao-language.pdf`, `m5_physics.pdf`
 New-edition textbooks include year: `p1_mathematics_2020.pdf`
 
-### License (ສິດທິ / Li kha sit)
-Educational use only. All rights (ລິຂະສິດ) belong to the **Ministry of Education and Sports of Lao PDR** (ກະຊວງສຶກສາທິການ ແລະ ກີລາ ສປປ ລາວ).
+### Using books.json
+
+A ready-to-use `books.json` is included at the root of this repo. Each entry contains direct URLs for the PDF and cover image — no path construction needed.
+
+**Fetch it in your app:**
+```js
+const res = await fetch('https://raw.githubusercontent.com/Xaypanya/Lao-Textbook/main/books.json')
+const data = await res.json()
+```
+
+**Entry structure:**
+```json
+{
+  "id": "m1_civics",
+  "grade": "m1",
+  "subject": "civics",
+  "pdf": "https://raw.githubusercontent.com/Xaypanya/Lao-Textbook/main/textbooks/secondary/m1/m1_civics.pdf",
+  "cover": "https://raw.githubusercontent.com/Xaypanya/Lao-Textbook/main/textbooks/secondary/m1/m1_civics.jpg",
+  "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/secondary/m1/m1_civics.pdf"
+}
+```
+
+**Access by category:**
+```js
+data.textbooks.primary.p1      // Grade 1 textbooks
+data.textbooks.secondary.m3    // Grade 8 textbooks
+data.guides.primary.p2         // Grade 2 teacher guides
+data.guides.secondary.m5       // Grade 10 teacher guides
+```
+
+**Filter by subject:**
+```js
+const mathBooks = data.textbooks.secondary.m1.filter(b => b.subject === 'mathematics')
+```
+
+Some entries include an `edition` field (e.g. `"edition": "2020"`) for newer textbook versions.
+
+### License
+Educational use only. All rights belong to the **Ministry of Education and Sports of Lao PDR**.
 
 ---
 
 ## 🇱🇦 ພາສາລາວ
 
-### ກ່ຽວກັບໂຄງການ
-ໂຄງການນີ້ລວບລວມ **ປຶ້ມແບບຮຽນ ແລະ ປຶ້ມຄູ່ມືຄູ 311 ຫົວ** ຕາມຫຼັກສູດແຫ່ງຊາດລາວ ສຳລັບທຸກລະດັບຊັ້ນ ຕັ້ງແຕ່ ປ.1 ຈົນເຖິງ ມ.7 ທຸກວິຊາ ໃນຮູບແບບ PDF ທີ່ດາວໂຫລດໄດ້ຟຣີ ຈາກແຫຼ່ງຂໍ້ມູນທາງການຂອງ ກະຊວງສຶກສາທິການ ແລະ ກີລາ ສປປ ລາວ
+### ກ່ຽວກັບໂປເຈັກ
+ໂປເຈັກນີ້ຮວບຮວມ **ປຶ້ມແບບຮຽນ ແລະ ປຶ້ມຄູ່ມືຄູ 311 ຫົວ** ຕາມຫຼັກສູດແຫ່ງຊາດລາວ ສຳລັບທຸກລະດັບຊັ້ນຮຽນ ຕັ້ງແຕ່ ປ.1 ຈົນເຖິງ ມ.7 ທຸກວິຊາ ໃນຮູບແບບ PDF ທີ່ດາວໂຫລດໄດ້ຟຣີ ຈາກແຫຼ່ງຂໍ້ມູນທາງການຂອງ ກະຊວງສຶກສາທິການ ແລະ ກີລາ ສປປ ລາວ
 
 ### ເນື້ອໃນ
 
@@ -155,4 +192,4 @@ Educational use only. All rights (ລິຂະສິດ) belong to the **Ministr
 `ปึ้มแบบเฮียนลาว` `หนังสือเรียนลาว` `แบบเรียนภาษาลาว` `ดาวน์โหลดหนังสือลาว` `หนังสือเรียนลาว PDF ฟรี` `เรียนภาษาลาว` `อักษรลาว` `ตำราเรียนลาว` `คู่มือครูลาว` `หลักสูตรลาว` `การศึกษาลาว` `ลาว ประถม มัธยม` `หนังสือเรียนภาษาลาว ประถม` `ภาษาลาว ป.1 ป.2 ป.3` `คลังหนังสือเรียนลาว`
 
 ### Romanized Lao
-`peum baeb hian lao` `nang sue hian` `peum hian` `dawlot free` `kan sueksa lao` `hong hian lao` `nak hian lao` `khu lao` `hian lao` `khang panya lao` `chan pathom` `chan matthayon` `khanit sat` `phasa lao` `withaya sat` `fisiksaat` `khemisaat` `siwawithaya` `phasa ang kit` `silapa` `phala sueksa` `li kha sit`
+`peum baeb hian lao` `nang sue hian` `peum hian` `dawlot free` `kan sueksa lao` `hong hian lao` `nak hian lao` `khu lao` `hian lao` `khang panya lao` `chan pathom` `chan matthayom` `khanit sat` `phasa lao` `withaya sat` `fisiksaat` `khemisaat` `siwawithaya` `phasa ang kit` `silapa` `phala sueksa` `li kha sit`
