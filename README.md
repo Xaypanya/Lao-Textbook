@@ -1,4 +1,4 @@
-# 📚 Lao Textbook Collection | ປຶ້ມແບບຮຽນລາວ | ດາວໂຫລດຟຣີ PDF
+# 📚 Lao Textbook Collection | ປຶ້ມແບບຮຽນ | ດາວໂຫລດຟຣີ PDF
 
 > **311 free PDF textbooks & teacher guides** for Lao national curriculum — Grades 1–12 · All subjects · Official Ministry of Education materials
 
