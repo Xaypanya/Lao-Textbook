@@ -1,6 +1,6 @@
 # 📚 Lao Textbook Collection | ປຶ້ມແບບຮຽນ | ດາວໂຫລດຟຣີ PDF
 
-> **306 free PDF textbooks & teacher guides** for Lao national curriculum — Grades 1–12 · All subjects · Official Ministry of Education materials
+> **305 free PDF textbooks & teacher guides** for Lao national curriculum — Grades 1–12 · All subjects · Official Ministry of Education materials
 
 [![Lao PDR](https://img.shields.io/badge/Country-Lao%20PDR-red)](https://github.com/Xaypanya/Lao-Textbook)
 [![License](https://img.shields.io/badge/Use-Educational%20Only-blue)](https://github.com/Xaypanya/Lao-Textbook)
@@ -11,7 +11,7 @@
 ## 🇬🇧 English
 
 ### About
-This repository contains **306 PDF textbooks and teacher guides** for the Lao national curriculum, covering **Grade 1 through Grade 12**, all subjects. Files are sourced from official Lao Ministry of Education and Sports (MOES) materials — free to download for educational use.
+This repository contains **305 PDF textbooks and teacher guides** for the Lao national curriculum, covering **Grade 1 through Grade 12**, all subjects. Files are sourced from official Lao Ministry of Education and Sports (MOES) materials — free to download for educational use.
 
 ### Contents
 
@@ -19,7 +19,7 @@ This repository contains **306 PDF textbooks and teacher guides** for the Lao na
 |---|---|---|
 | 📘 Textbooks – Primary | P1 – P5 (Grades 1–5) | 33 |
 | 📗 Textbooks – Secondary | M1 – M7 (Grades 6–12) | 99 |
-| 📒 Teacher Guides – Primary | P1 – P5 | 58 |
+| 📒 Teacher Guides – Primary | P1 – P5 | 57 |
 | 📓 Teacher Guides – Secondary | M1 – M7 | 116 |
 
 ### Grade Levels
@@ -127,7 +127,7 @@ Educational use only. All rights belong to the **Ministry of Education and Sport
 |---|---|---|
 | ປຶ້ມແບບຮຽນ ປະຖົມສຶກສາ | ປ1 – ປ5 | 33 ຫົວ |
 | ປຶ້ມແບບຮຽນ ມັດທະຍົມສຶກສາ | ມ1 – ມ7 | 99 ຫົວ |
-| ປຶ້ມຄູ່ມືຄູ ປະຖົມ | ປ1 – ປ5 | 58 ຫົວ |
+| ປຶ້ມຄູ່ມືຄູ ປະຖົມ | ປ1 – ປ5 | 57 ຫົວ |
 | ປຶ້ມຄູ່ມືຄູ ມັດທະຍົມ | ມ1 – ມ7 | 116 ຫົວ |
 
 ### ຊັ້ນຮຽນ
@@ -159,7 +159,7 @@ Educational use only. All rights belong to the **Ministry of Education and Sport
 |---|---|---|
 | หนังสือเรียน ประถมศึกษา | ป.1 – ป.5 | 33 เล่ม |
 | หนังสือเรียน มัธยมศึกษา | ม.1 – ม.7 | 99 เล่ม |
-| คู่มือครู ประถมศึกษา | ป.1 – ป.5 | 58 เล่ม |
+| คู่มือครู ประถมศึกษา | ป.1 – ป.5 | 57 เล่ม |
 | คู่มือครู มัธยมศึกษา | ม.1 – ม.7 | 116 เล่ม |
 
 ### วิชาที่มีให้

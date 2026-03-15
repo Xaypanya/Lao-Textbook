@@ -1593,14 +1593,6 @@
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/guides/primary/p3/p3_moral-education_2021.jpg"
         },
         {
-          "id": "p3_music",
-          "grade": "p3",
-          "subject": "music",
-          "name": "ສິລະປະດົນຕີ",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/guides/primary/p3/p3_music.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/guides/primary/p3/p3_music.pdf"
-        },
-        {
           "id": "p3_music_2021",
           "grade": "p3",
           "subject": "music",
