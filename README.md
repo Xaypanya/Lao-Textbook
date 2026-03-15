@@ -119,7 +119,7 @@ Educational use only. All rights belong to the **Ministry of Education and Sport
 ## 🇱🇦 ພາສາລາວ
 
 ### ກ່ຽວກັບໂປເຈັກ
-ໂປເຈັກນີ້ຮວບຮວມ **ປຶ້ມແບບຮຽນ ແລະ ປຶ້ມຄູ່ມືຄູ 320 ຫົວ** ຕາມຫຼັກສູດແຫ່ງຊາດລາວ ສຳລັບທຸກລະດັບຊັ້ນຮຽນ ຕັ້ງແຕ່ ປ.1 ຈົນເຖິງ ມ.7 ທຸກວິຊາ ໃນຮູບແບບ PDF ທີ່ດາວໂຫລດໄດ້ຟຣີ ຈາກແຫຼ່ງຂໍ້ມູນທາງການຂອງ ກະຊວງສຶກສາທິການ ແລະ ກີລາ ສປປ ລາວ
+ໂປເຈັກນີ້ຮວບຮວມ **ປຶ້ມແບບຮຽນ ແລະ ປຶ້ມຄູ່ມືຄູ 320 ຫົວ** ຕາມຫຼັກສູດແຫ່ງຊາດລາວ ສຳລັບທຸກລະດັບຊັ້ນຮຽນ ຕັ້ງແຕ່ ປ.1 ຈົນເຖິງ ມ.7 ທຸກວິຊາ ໃນຮູບແບບ PDF ທີ່ດາວໂຫລດໄດ້ຟຣີ ຈາກແຫຼ່ງຂໍ້ມູນທາງການຂອງ ກະຊວງສຶກສາທິການ ແລະ ກິລາ ສປປ ລາວ
 
 ### ເນື້ອໃນ
 
@@ -144,7 +144,7 @@ Educational use only. All rights belong to the **Ministry of Education and Sport
 ຕົວຢ່າງ: `p1_mathematics.pdf` = ຄະນິດສາດ ປ.1 · `m3_lao-language.pdf` = ພາສາລາວ ມ.3
 
 ### ສິດທິ (Li kha sit)
-ເພື່ອການສຶກສາເທົ່ານັ້ນ ລິຂະສິດເປັນຂອງ **ກະຊວງສຶກສາທິການ ແລະ ກີລາ ສປປ ລາວ**
+ເພື່ອການສຶກສາເທົ່ານັ້ນ ລິຂະສິດເປັນຂອງ **ກະຊວງສຶກສາທິການ ແລະ ກິລາ ສປປ ລາວ**
 
 ---
 
@@ -184,7 +184,7 @@ Educational use only. All rights belong to the **Ministry of Education and Sport
 ## 🔍 Keywords / ຄຳຄົ້ນຫາ / คำค้นหา
 
 ### Lao Script
-`ປຶ້ມແບບຮຽນລາວ` `ໜັງສືຮຽນ` `ປຶ້ມຮຽນ` `ປຶ້ມຄູ່ມືຄູ` `ດາວໂຫລດ ປຶ້ມແບບຮຽນ` `ດາວໂຫລດຟຣີ` `ຟາຍ PDF` `ປຶ້ມແບບຮຽນ PDF ຟຣີ` `ຫຼັກສູດແຫ່ງຊາດລາວ` `ກະຊວງສຶກສາທິການ ແລະ ກີລາ` `ສື່ການຮຽນການສອນ` `ການສຶກສາລາວ` `ໂຮງຮຽນລາວ` `ນັກຮຽນລາວ` `ຄູລາວ` `ຮຽນລາວ` `ຮຽນອອນລາຍ` `ຄັງປັນຍາລາວ` `ຊັ້ນປະຖົມ` `ຊັ້ນມັດທະຍົມ` `ປ.1 ປ.2 ປ.3 ປ.4 ປ.5` `ມ.1 ມ.2 ມ.3 ມ.4 ມ.5 ມ.6 ມ.7` `ຄະນິດສາດ` `ພາສາລາວ` `ວິທະຍາສາດ` `ຟີຊິກ` `ເຄມີ` `ຊີວະ` `ພາສາອັງກິດ` `ສິດທິ` `ລິຂະສິດ`
+`ປຶ້ມແບບຮຽນລາວ` `ໜັງສືຮຽນ` `ປຶ້ມຮຽນ` `ປຶ້ມຄູ່ມືຄູ` `ດາວໂຫລດ ປຶ້ມແບບຮຽນ` `ດາວໂຫລດຟຣີ` `ຟາຍ PDF` `ປຶ້ມແບບຮຽນ PDF ຟຣີ` `ຫຼັກສູດແຫ່ງຊາດລາວ` `ກະຊວງສຶກສາທິການ ແລະ ກິລາ` `ສື່ການຮຽນການສອນ` `ການສຶກສາລາວ` `ໂຮງຮຽນລາວ` `ນັກຮຽນລາວ` `ຄູລາວ` `ຮຽນລາວ` `ຮຽນອອນລາຍ` `ຄັງປັນຍາລາວ` `ຊັ້ນປະຖົມ` `ຊັ້ນມັດທະຍົມ` `ປ.1 ປ.2 ປ.3 ປ.4 ປ.5` `ມ.1 ມ.2 ມ.3 ມ.4 ມ.5 ມ.6 ມ.7` `ຄະນິດສາດ` `ພາສາລາວ` `ວິທະຍາສາດ` `ຟີຊິກ` `ເຄມີ` `ຊີວະ` `ພາສາອັງກິດ` `ສິດທິ` `ລິຂະສິດ`
 
 ### English
 `Lao textbook PDF free download` `Lao school book PDF` `Laos primary school textbook` `Lao secondary school textbook PDF` `Lao PDR curriculum textbook download` `Lao grade 1 textbook PDF` `Lao Ministry of Education textbook` `MOES Lao textbook` `Lao language textbook free` `Lao teacher guide PDF` `Lao student textbook` `Lao PDR education materials` `Lao curriculum PDF` `free Lao PDF books` `Lao textbook P1 P2 P3 P4 P5` `Lao textbook M1 M2 M3 M4 M5 M6 M7` `Khang Panya Lao` `Laos education book free download` `Lao school book download` `learn Lao language book`
