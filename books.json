@@ -12,14 +12,6 @@
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/textbooks/primary/p1/p1_lao-language.jpg"
         },
         {
-          "id": "p1_lao-language-vol1",
-          "grade": "p1",
-          "subject": "lao-language-vol1",
-          "name": "ພາສາລາວ ເຫຼັ້ມ 1",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p1/p1_lao-language-vol1.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p1/p1_lao-language-vol1.pdf"
-        },
-        {
           "id": "p1_lao-language-vol1_2020",
           "grade": "p1",
           "subject": "lao-language-vol1",
@@ -28,14 +20,6 @@
           "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p1/p1_lao-language-vol1_2020.pdf",
           "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p1/p1_lao-language-vol1_2020.pdf",
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/textbooks/primary/p1/p1_lao-language-vol1_2020.jpg"
-        },
-        {
-          "id": "p1_lao-language-vol2",
-          "grade": "p1",
-          "subject": "lao-language-vol2",
-          "name": "ພາສາລາວ ເຫຼັ້ມ 2",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p1/p1_lao-language-vol2.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p1/p1_lao-language-vol2.pdf"
         },
         {
           "id": "p1_lao-language-vol2_2020",
@@ -86,14 +70,6 @@
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/textbooks/primary/p1/p1_moral-world-around-us.jpg"
         },
         {
-          "id": "p1_science-environment",
-          "grade": "p1",
-          "subject": "science-environment",
-          "name": "ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p1/p1_science-environment.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p1/p1_science-environment.pdf"
-        },
-        {
           "id": "p1_science-environment_2020",
           "grade": "p1",
           "subject": "science-environment",
@@ -115,14 +91,6 @@
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/textbooks/primary/p2/p2_lao-language.jpg"
         },
         {
-          "id": "p2_lao-language-vol1",
-          "grade": "p2",
-          "subject": "lao-language-vol1",
-          "name": "ພາສາລາວ ເຫຼັ້ມ 1",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p2/p2_lao-language-vol1.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p2/p2_lao-language-vol1.pdf"
-        },
-        {
           "id": "p2_lao-language-vol1_2020",
           "grade": "p2",
           "subject": "lao-language-vol1",
@@ -131,14 +99,6 @@
           "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p2/p2_lao-language-vol1_2020.pdf",
           "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p2/p2_lao-language-vol1_2020.pdf",
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/textbooks/primary/p2/p2_lao-language-vol1_2020.jpg"
-        },
-        {
-          "id": "p2_lao-language-vol2",
-          "grade": "p2",
-          "subject": "lao-language-vol2",
-          "name": "ພາສາລາວ ເຫຼັ້ມ 2",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p2/p2_lao-language-vol2.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p2/p2_lao-language-vol2.pdf"
         },
         {
           "id": "p2_lao-language-vol2_2020",
@@ -187,14 +147,6 @@
           "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p2/p2_moral-world-around-us.pdf",
           "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p2/p2_moral-world-around-us.pdf",
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/textbooks/primary/p2/p2_moral-world-around-us.jpg"
-        },
-        {
-          "id": "p2_science-environment",
-          "grade": "p2",
-          "subject": "science-environment",
-          "name": "ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p2/p2_science-environment.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p2/p2_science-environment.pdf"
         },
         {
           "id": "p2_science-environment_2020",
@@ -283,14 +235,6 @@
           "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p3/p3_science-environment_2021.pdf",
           "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p3/p3_science-environment_2021.pdf",
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/textbooks/primary/p3/p3_science-environment_2021.jpg"
-        },
-        {
-          "id": "p3_world-around-us",
-          "grade": "p3",
-          "subject": "world-around-us",
-          "name": "ໂລກອ້ອມຕົວ",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p3/p3_world-around-us.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p3/p3_world-around-us.pdf"
         }
       ],
       "p4": [
@@ -339,14 +283,6 @@
           "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p4/p4_moral-world-around-us.pdf",
           "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p4/p4_moral-world-around-us.pdf",
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/textbooks/primary/p4/p4_moral-world-around-us.jpg"
-        },
-        {
-          "id": "p4_world-around-us",
-          "grade": "p4",
-          "subject": "world-around-us",
-          "name": "ໂລກອ້ອມຕົວ",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p4/p4_world-around-us.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p4/p4_world-around-us.pdf"
         }
       ],
       "p5": [
@@ -385,14 +321,6 @@
           "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p5/p5_moral-world-around-us.pdf",
           "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p5/p5_moral-world-around-us.pdf",
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/textbooks/primary/p5/p5_moral-world-around-us.jpg"
-        },
-        {
-          "id": "p5_world-around-us",
-          "grade": "p5",
-          "subject": "world-around-us",
-          "name": "ໂລກອ້ອມຕົວ",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/primary/p5/p5_world-around-us.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/primary/p5/p5_world-around-us.pdf"
         }
       ]
     },
@@ -808,14 +736,6 @@
           "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m4/m4_natural-science.pdf",
           "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/secondary/m4/m4_natural-science.pdf",
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/textbooks/secondary/m4/m4_natural-science.jpg"
-        },
-        {
-          "id": "m4_physics",
-          "grade": "m4",
-          "subject": "physics",
-          "name": "ຟີຊິກສາດ",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m4/m4_physics.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/secondary/m4/m4_physics.pdf"
         },
         {
           "id": "m4_vocational-basics",
@@ -1402,14 +1322,6 @@
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/guides/primary/p1/p1_moral-education_2020.jpg"
         },
         {
-          "id": "p1_music",
-          "grade": "p1",
-          "subject": "music",
-          "name": "ສິລະປະດົນຕີ",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/guides/primary/p1/p1_music.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/guides/primary/p1/p1_music.pdf"
-        },
-        {
           "id": "p1_music_2020",
           "grade": "p1",
           "subject": "music",
@@ -1544,14 +1456,6 @@
           "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/guides/primary/p2/p2_moral-education_2020.pdf",
           "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/guides/primary/p2/p2_moral-education_2020.pdf",
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/guides/primary/p2/p2_moral-education_2020.jpg"
-        },
-        {
-          "id": "p2_music",
-          "grade": "p2",
-          "subject": "music",
-          "name": "ສິລະປະດົນຕີ",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/guides/primary/p2/p2_music.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/guides/primary/p2/p2_music.pdf"
         },
         {
           "id": "p2_music_2020",
@@ -1802,14 +1706,6 @@
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/guides/primary/p4/p4_moral-education.jpg"
         },
         {
-          "id": "p4_music",
-          "grade": "p4",
-          "subject": "music",
-          "name": "ສິລະປະດົນຕີ",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/guides/primary/p4/p4_music.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/guides/primary/p4/p4_music.pdf"
-        },
-        {
           "id": "p4_physical-education",
           "grade": "p4",
           "subject": "physical-education",
@@ -1873,14 +1769,6 @@
           "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/guides/primary/p5/p5_moral-education.pdf",
           "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/guides/primary/p5/p5_moral-education.pdf",
           "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/guides/primary/p5/p5_moral-education.jpg"
-        },
-        {
-          "id": "p5_music",
-          "grade": "p5",
-          "subject": "music",
-          "name": "ສິລະປະດົນຕີ",
-          "pdf": "https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/guides/primary/p5/p5_music.pdf",
-          "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/guides/primary/p5/p5_music.pdf"
         },
         {
           "id": "p5_physical-education",
