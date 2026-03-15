@@ -1,6 +1,6 @@
 # 📚 Lao Textbook Collection | ປຶ້ມແບບຮຽນ | ດາວໂຫລດຟຣີ PDF
 
-> **311 free PDF textbooks & teacher guides** for Lao national curriculum — Grades 1–12 · All subjects · Official Ministry of Education materials
+> **320 free PDF textbooks & teacher guides** for Lao national curriculum — Grades 1–12 · All subjects · Official Ministry of Education materials
 
 [![Lao PDR](https://img.shields.io/badge/Country-Lao%20PDR-red)](https://github.com/Xaypanya/Lao-Textbook)
 [![License](https://img.shields.io/badge/Use-Educational%20Only-blue)](https://github.com/Xaypanya/Lao-Textbook)
@@ -11,15 +11,15 @@
 ## 🇬🇧 English
 
 ### About
-This repository contains **311 PDF textbooks and teacher guides** for the Lao national curriculum, covering **Grade 1 through Grade 12**, all subjects. Files are sourced from official Lao Ministry of Education and Sports (MOES) materials — free to download for educational use.
+This repository contains **320 PDF textbooks and teacher guides** for the Lao national curriculum, covering **Grade 1 through Grade 12**, all subjects. Files are sourced from official Lao Ministry of Education and Sports (MOES) materials — free to download for educational use.
 
 ### Contents
 
 | Category | Grades | Files |
 |---|---|---|
-| 📘 Textbooks – Primary | P1 – P5 (Grades 1–5) | 58 |
-| 📗 Textbooks – Secondary | M1 – M7 (Grades 6–12) | 112 |
-| 📒 Teacher Guides – Primary | P1 – P5 | 57 |
+| 📘 Textbooks – Primary | P1 – P5 (Grades 1–5) | 42 |
+| 📗 Textbooks – Secondary | M1 – M7 (Grades 6–12) | 100 |
+| 📒 Teacher Guides – Primary | P1 – P5 | 62 |
 | 📓 Teacher Guides – Secondary | M1 – M7 | 116 |
 
 ### Grade Levels
@@ -89,11 +89,14 @@ const data = await res.json()
   "id": "m1_civics",
   "grade": "m1",
   "subject": "civics",
+  "name": "ສຶກສາພົນລະເມືອງ",
   "pdf": "https://raw.githubusercontent.com/Xaypanya/Lao-Textbook/main/textbooks/secondary/m1/m1_civics.pdf",
   "cover": "https://raw.githubusercontent.com/Xaypanya/Lao-Textbook/main/textbooks/secondary/m1/m1_civics.jpg",
   "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/secondary/m1/m1_civics.pdf"
 }
 ```
+
+The `name` field contains the Lao script name of the subject. Entries with multiple editions include an `edition` field (e.g. `"edition": "2020"`).
 
 **Access by category:**
 ```js
@@ -108,8 +111,6 @@ data.guides.secondary.m5       // Grade 10 teacher guides
 const mathBooks = data.textbooks.secondary.m1.filter(b => b.subject === 'mathematics')
 ```
 
-Some entries include an `edition` field (e.g. `"edition": "2020"`) for newer textbook versions.
-
 ### License
 Educational use only. All rights belong to the **Ministry of Education and Sports of Lao PDR**.
 
@@ -118,15 +119,15 @@ Educational use only. All rights belong to the **Ministry of Education and Sport
 ## 🇱🇦 ພາສາລາວ
 
 ### ກ່ຽວກັບໂປເຈັກ
-ໂປເຈັກນີ້ຮວບຮວມ **ປຶ້ມແບບຮຽນ ແລະ ປຶ້ມຄູ່ມືຄູ 311 ຫົວ** ຕາມຫຼັກສູດແຫ່ງຊາດລາວ ສຳລັບທຸກລະດັບຊັ້ນຮຽນ ຕັ້ງແຕ່ ປ.1 ຈົນເຖິງ ມ.7 ທຸກວິຊາ ໃນຮູບແບບ PDF ທີ່ດາວໂຫລດໄດ້ຟຣີ ຈາກແຫຼ່ງຂໍ້ມູນທາງການຂອງ ກະຊວງສຶກສາທິການ ແລະ ກີລາ ສປປ ລາວ
+ໂປເຈັກນີ້ຮວບຮວມ **ປຶ້ມແບບຮຽນ ແລະ ປຶ້ມຄູ່ມືຄູ 320 ຫົວ** ຕາມຫຼັກສູດແຫ່ງຊາດລາວ ສຳລັບທຸກລະດັບຊັ້ນຮຽນ ຕັ້ງແຕ່ ປ.1 ຈົນເຖິງ ມ.7 ທຸກວິຊາ ໃນຮູບແບບ PDF ທີ່ດາວໂຫລດໄດ້ຟຣີ ຈາກແຫຼ່ງຂໍ້ມູນທາງການຂອງ ກະຊວງສຶກສາທິການ ແລະ ກີລາ ສປປ ລາວ
 
 ### ເນື້ອໃນ
 
 | ໝວດ | ລະດັບ | ຈຳນວນ |
 |---|---|---|
-| ປຶ້ມແບບຮຽນ ປະຖົມສຶກສາ | ປ1 – ປ5 | 58 ຫົວ |
-| ປຶ້ມແບບຮຽນ ມັດທະຍົມສຶກສາ | ມ1 – ມ7 | 112 ຫົວ |
-| ປຶ້ມຄູ່ມືຄູ ປະຖົມ | ປ1 – ປ5 | 57 ຫົວ |
+| ປຶ້ມແບບຮຽນ ປະຖົມສຶກສາ | ປ1 – ປ5 | 42 ຫົວ |
+| ປຶ້ມແບບຮຽນ ມັດທະຍົມສຶກສາ | ມ1 – ມ7 | 100 ຫົວ |
+| ປຶ້ມຄູ່ມືຄູ ປະຖົມ | ປ1 – ປ5 | 62 ຫົວ |
 | ປຶ້ມຄູ່ມືຄູ ມັດທະຍົມ | ມ1 – ມ7 | 116 ຫົວ |
 
 ### ຊັ້ນຮຽນ
@@ -150,15 +151,15 @@ Educational use only. All rights belong to the **Ministry of Education and Sport
 ## 🇹🇭 ภาษาไทย
 
 ### เกี่ยวกับโปรเจกต์
-คลังนี้รวบรวม **หนังสือเรียนและคู่มือครู 311 เล่ม** ตามหลักสูตรแห่งชาติลาว ครอบคลุมทุกระดับชั้นตั้งแต่ ป.1 ถึง ม.7 ทุกวิชา ในรูปแบบ PDF ให้ดาวน์โหลดฟรี
+คลังนี้รวบรวม **หนังสือเรียนและคู่มือครู 320 เล่ม** ตามหลักสูตรแห่งชาติลาว ครอบคลุมทุกระดับชั้นตั้งแต่ ป.1 ถึง ม.7 ทุกวิชา ในรูปแบบ PDF ให้ดาวน์โหลดฟรี
 
 ### เนื้อหา
 
 | หมวด | ระดับ | จำนวน |
 |---|---|---|
-| หนังสือเรียน ประถมศึกษา | ป.1 – ป.5 | 58 เล่ม |
-| หนังสือเรียน มัธยมศึกษา | ม.1 – ม.7 | 112 เล่ม |
-| คู่มือครู ประถมศึกษา | ป.1 – ป.5 | 57 เล่ม |
+| หนังสือเรียน ประถมศึกษา | ป.1 – ป.5 | 42 เล่ม |
+| หนังสือเรียน มัธยมศึกษา | ม.1 – ม.7 | 100 เล่ม |
+| คู่มือครู ประถมศึกษา | ป.1 – ป.5 | 62 เล่ม |
 | คู่มือครู มัธยมศึกษา | ม.1 – ม.7 | 116 เล่ม |
 
 ### วิชาที่มีให้
