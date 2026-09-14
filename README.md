@@ -5,6 +5,7 @@
 [![Lao PDR](https://img.shields.io/badge/Country-Lao%20PDR-red)](https://github.com/Xaypanya/Lao-Textbook)
 [![License](https://img.shields.io/badge/Use-Educational%20Only-blue)](https://github.com/Xaypanya/Lao-Textbook)
 [![PDF](https://img.shields.io/badge/Format-PDF-orange)](https://github.com/Xaypanya/Lao-Textbook)
+[![Browse online](https://img.shields.io/badge/Browse-xiengperm.dev-2ea44f)](https://xiengperm.dev/posts/lao-textbooks-lo/)
 
 ---
 
@@ -12,6 +13,8 @@
 
 ### About
 This repository contains **305 PDF textbooks and teacher guides** for the Lao national curriculum, covering **Grade 1 through Grade 12**, all subjects. Files are sourced from official Lao Ministry of Education and Sports (MOES) materials — free to download for educational use.
+
+**Browse the full list online:** [xiengperm.dev/posts/lao-textbooks-lo/](https://xiengperm.dev/posts/lao-textbooks-lo/)
 
 ### Contents
 
@@ -126,6 +129,8 @@ Educational use only. All rights belong to the **Ministry of Education and Sport
 ### ກ່ຽວກັບໂປເຈັກ
 ໂປເຈັກນີ້ຮວບຮວມ **ປຶ້ມແບບຮຽນ ແລະ ປຶ້ມຄູ່ມືຄູ 320 ຫົວ** ຕາມຫຼັກສູດແຫ່ງຊາດລາວ ສຳລັບທຸກລະດັບຊັ້ນຮຽນ ຕັ້ງແຕ່ ປ.1 ຈົນເຖິງ ມ.7 ທຸກວິຊາ ໃນຮູບແບບ PDF ທີ່ດາວໂຫລດໄດ້ຟຣີ ຈາກແຫຼ່ງຂໍ້ມູນທາງການຂອງ ກະຊວງສຶກສາທິການ ແລະ ກິລາ ສປປ ລາວ
 
+**ເບິ່ງລາຍການທັງໝົດອອນລາຍ:** [xiengperm.dev/posts/lao-textbooks-lo/](https://xiengperm.dev/posts/lao-textbooks-lo/)
+
 ### ເນື້ອໃນ
 
 | ໝວດ | ລະດັບ | ຈຳນວນ |
@@ -157,6 +162,8 @@ Educational use only. All rights belong to the **Ministry of Education and Sport
 
 ### เกี่ยวกับโปรเจกต์
 คลังนี้รวบรวม **หนังสือเรียนและคู่มือครู 320 เล่ม** ตามหลักสูตรแห่งชาติลาว ครอบคลุมทุกระดับชั้นตั้งแต่ ป.1 ถึง ม.7 ทุกวิชา ในรูปแบบ PDF ให้ดาวน์โหลดฟรี
+
+**ดูรายการทั้งหมดออนไลน์:** [xiengperm.dev/posts/lao-textbooks-lo/](https://xiengperm.dev/posts/lao-textbooks-lo/)
 
 ### เนื้อหา
 
