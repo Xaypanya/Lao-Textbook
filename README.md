@@ -90,11 +90,16 @@ const data = await res.json()
   "grade": "m1",
   "subject": "civics",
   "name": "ສຶກສາພົນລະເມືອງ",
-  "pdf": "https://raw.githubusercontent.com/Xaypanya/Lao-Textbook/main/textbooks/secondary/m1/m1_civics.pdf",
-  "cover": "https://raw.githubusercontent.com/Xaypanya/Lao-Textbook/main/textbooks/secondary/m1/m1_civics.jpg",
+  "pdf": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/textbooks/secondary/m1/m1_civics.pdf",
+  "cover": "https://media.githubusercontent.com/media/Xaypanya/Lao-Textbook/main/textbooks/secondary/m1/m1_civics.jpg",
   "github": "https://github.com/Xaypanya/Lao-Textbook/blob/main/textbooks/secondary/m1/m1_civics.pdf"
 }
 ```
+
+> **Note:** all PDFs and cover images are stored with **Git LFS**.
+> Use the `https://media.githubusercontent.com/media/...` host shown above.
+> `https://raw.githubusercontent.com/...` returns the LFS pointer text (a 130-byte file), not the real PDF/image.
+> Only `books.json` itself is a plain file and can be fetched from `raw.githubusercontent.com`.
 
 The `name` field contains the Lao script name of the subject. Entries with multiple editions include an `edition` field (e.g. `"edition": "2020"`).
 
